@@ -12,7 +12,7 @@ ArtPixel 2.6.1 - это современный редактор пиксельн
 
 1. **Клонирование репозитория:**
 ```bash
-git clone https://github.com/yourusername/ArtPixel.git
+git clone https://github.com/Seiyhoku/ArtPixel.git
 cd ArtPixel
 ```
 
